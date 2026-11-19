@@ -1,4 +1,4 @@
-![SubterraX cover](assets/cover.png)
+![SubterraX cover](SubterraX%20cover.png)
 
 # SubterraX 🚇⛏️
 
